@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Thornbury_and_Yate_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q987884",
+    "start": "2010",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
